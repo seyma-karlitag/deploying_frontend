@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,80);
+
+:root {
+  --font-family: "Montserrat", sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
+
+  --color-footer: #031b34;
+  --color-blog: #042c54;
+  --color-text: #81afdd;
+  --color-subtext: #ff8a71;
+
+  --color-orange: #ff4820;
+  --color-dark-blue: rgba(0, 40, 83, 1);
+  --color-bg: rgb(10, 22, 42);
+  --color-gradient: linear-gradient(180deg, #773fc2, #f24720);
+}
